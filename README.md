@@ -53,5 +53,26 @@
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla feugiat sapien blandit nunc elementum dapibus</p>
     </div>  
     </main>
+    <section>
+        <h2>Etiquetas HTML semánticas:</h2>
+        <ul>
+            <li>&lt;header&gt;</li>
+            <li>&lt;nav&gt;</li>
+            <li>&lt;section&gt;</li>
+            <li>&lt;article&gt;</li>
+            <li>&lt;footer&gt;</li>
+        </ul>
+        
+        <h2>Propiedades de CSS:</h2>
+        <ul>
+            <li>color: red</li>
+            <li>font-size: 16px</li>
+            <li>margin</li>
+            <li>padding</li>
+            <li>background-color</li>
+            <li>border</li>
+            <li>display</li>
+        </ul>
+    </section>
 </body>
 </html>
